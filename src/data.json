@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://specials-images.forbesimg.com/imageserve/5d35eacaf1176b0008974b54/960x0.jpg?cropX1=790&cropX2=5350&cropY1=784&cropY2=3349",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://cdn.motor1.com/images/mgl/GNqnx/s3/most-expensive-cars-lead.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://auto.ndtvimg.com/car-images/big/ferrari/portofino/ferrari-portofino.jpg?v=27",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://media.magazine.ferrari.com/images/2018/12/11/161913806-76521baa-5550-4939-9af7-8426748dfd68.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://www.simeonemuseum.org/wp-content/uploads/2019/08/Classic-Cars-Ranking.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://article.images.consumerreports.org/f_auto/prod/content/dam/CRO%20Images%202019/Magazine/04April/CR-Cars-InlineHero-ComingSoon-Toyota-Supra-2-19",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://media.wired.com/photos/5d09594a62bcb0c9752779d9/master/pass/Transpo_G70_TA-518126.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://ichef.bbci.co.uk/news/624/cpsprodpb/2F81/production/_103916121_mediaitem103910950.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://www.designboom.com/wp-content/uploads/2019/08/docubyte-james-ball-wedged-wonders-italian-concept-cars-designboom-600.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://media.wired.com/photos/5aa18e3edc9df6500b90747b/master/pass/CarRoundup-Mclaren.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://amp.businessinsider.com/images/592f4169b74af41b008b5977-750-563.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://www.cstatic-images.com/car-pictures/main/CAC50DOC191A021001_2.png",
+    "clicked": false
+  }
+]
